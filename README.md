@@ -1,0 +1,2 @@
+# Othello
+simple othello ai
